@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Mi Hoja de vida</title>
+
+    <link rel="shortcut icon" href="assets/images/fav.jpg">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/fontawsom-all.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+</head>
+
+<body>
+    <div class="container-fluid overcover">
+        <div class="container profile-box">
+            <div class="row">
+                <div class="col-md-4 left-co">
+                    <div class="left-side">
+                        <div class="profile-info">
+                            <img src="assets/images/gallery/WhatsApp Image 2023-03-05 at 21.05.44.jpeg" alt="">
+                            <h3>Fabio Molina</h3>
+                            <span>técnico</span>
+                        </div>
+                        <h4 class="ltitle">Contact</h4>
+                        <div class="contact-box pb0">
+                            <div class="icon">
+                                <i class="fas fa-phone"></i>
+                            </div>
+                            <div class="detail">
+                                +57 3046561180
+                            </div>
+                        </div>
+                        <div class="contact-box pb0">
+                            <div class="icon">
+                                <i class="fas fa-globe-americas"></i>
+                            </div>
+                            <div class="detail">
+                                molinfabio9@gmail.com
+                            </div>
+                        </div>
+                        <div class="contact-box">
+                            <div class="icon">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <div class="detail">
+                                San luis/Barranquilla 
+                                Colombia
+                            </div>
+                        </div>
+                       
+                        </ul>
+                        
+                        
+                        
+                        <h4 class="ltitle">Hobbies</h4>
+                        <ul class="hoby row no-margin">
+                            <li><i class="fas fa-pencil-alt"></i> <br> Escribir</li>
+                            <li><i class="fas fa-bicycle"></i> <br> Ciclismo</li>
+                            <li><i class="fas fa-futbol"></i> <br> Futbol</li>
+                            <li><i class="fas fa-film"></i><br> peliculas</li>
+                            <li><i class="fas fa-utensils"></i> <br>cocinar</li>
+                            <li><i class="fas fa-gamepad"></i> <br> Juegos</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-8 rt-div">
+                    <div class="rit-cover">
+                        <div class="hotkey">
+                            <h1 class="">Fabio Molina Ramirez </h1>
+                            <small>Técnico en Progamacíon</small>
+                        </div>
+                        <h2 class="rit-titl"><i class="far fa-user"></i> Profile</h2>
+                        <div class="about">
+                            <p>Soy alguien apasionado con la progamación, me gusta estar al tanto de lo avances de todo lo relacionado obre la tecnologia porque de eso viviré, creo plenamente que la tecnologia va a cambiar la vida de todo ser humano.</p>
+                            <div class="btn-ro row no-margin">
+                               
+                                
+                        
+                        </div>
+
+                        <h2 class="rit-titl"><i class="fas fa-graduation-cap"></i> Educación</h2>
+                        <div class="educación">
+                            <ul class="row no-margin">
+                                <li class="col-md-6"><span>2008-2013</span> <br>
+                                Primaria - Colegio infantil Popys</li>
+                                <li class="col-md-6"><span>2013-2020</span> <br>
+                                    Bachillerato - Instituto educativo técnico Francisco de Paula Santander</li>
+                             
+                        </div>
+
+
+
+
+
+
+
+
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script src="assets/js/jquery-3.2.1.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/script.js"></script>
+
+
+</html>
